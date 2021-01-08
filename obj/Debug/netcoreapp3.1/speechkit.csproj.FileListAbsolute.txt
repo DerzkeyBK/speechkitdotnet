@@ -1,0 +1,13 @@
+D:\speechkit\speechkit\bin\Debug\netcoreapp3.1\speechkit.exe
+D:\speechkit\speechkit\bin\Debug\netcoreapp3.1\speechkit.deps.json
+D:\speechkit\speechkit\bin\Debug\netcoreapp3.1\speechkit.runtimeconfig.json
+D:\speechkit\speechkit\bin\Debug\netcoreapp3.1\speechkit.runtimeconfig.dev.json
+D:\speechkit\speechkit\bin\Debug\netcoreapp3.1\speechkit.dll
+D:\speechkit\speechkit\bin\Debug\netcoreapp3.1\speechkit.pdb
+D:\speechkit\speechkit\obj\Debug\netcoreapp3.1\speechkit.csprojAssemblyReference.cache
+D:\speechkit\speechkit\obj\Debug\netcoreapp3.1\speechkit.AssemblyInfoInputs.cache
+D:\speechkit\speechkit\obj\Debug\netcoreapp3.1\speechkit.AssemblyInfo.cs
+D:\speechkit\speechkit\obj\Debug\netcoreapp3.1\speechkit.csproj.CoreCompileInputs.cache
+D:\speechkit\speechkit\obj\Debug\netcoreapp3.1\speechkit.dll
+D:\speechkit\speechkit\obj\Debug\netcoreapp3.1\speechkit.pdb
+D:\speechkit\speechkit\obj\Debug\netcoreapp3.1\speechkit.genruntimeconfig.cache
